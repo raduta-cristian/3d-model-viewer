@@ -1,0 +1,7 @@
+﻿   Qt/MSBuild: 3.3.1.1
+   Qt: 6.7.0
+  main.cpp
+C:\Personal\Programming\OpenGL\model-viewer\model-viewer\Mesh.h(64,44): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  model-viewer.vcxproj -> C:\Personal\Programming\OpenGL\model-viewer\x64\Debug\model-viewer.exe
