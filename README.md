@@ -1,4 +1,4 @@
-# 3D Model Viewer -- \[ C++ / OpenGL \]
+# 3D Model Viewer -- \[ C++ / OpenGL / Qt \]
 ### .obj model viewer made with C++ and OpenGL to learn graphics programming basics.
 
 ---
